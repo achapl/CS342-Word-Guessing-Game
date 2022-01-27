@@ -1,0 +1,29 @@
+Colors
+---
+Blue - Color of the sky
+Black - Color of one's shadow
+Red - A typical rose is ___
+Green - Grass
+Yellow - Dying grass
+Cyan - A light blue
+-
+States
+---
+Mississippi - Lots of ississ
+Maine - Northern-most state in the 48
+Michigan - Large bordering lake named after it
+Illinois - Where Chicago is
+Florida - Land of the elderly and alligators
+Texas - 2nd largest state
+Alaska - Northern-most state
+-
+Shapes
+---
+Square - 2 sets of parallel sides, all equal length with right angles
+Parallelogram - 2 sets of parallel sides
+Rhombus - Parallelogram with all side lengths equal
+Pentagon - 5-sided figure
+Hexagon - 6-sided figure
+Circle - All points equidistant from a center point
+Triangle - 3 sides
+EOF

@@ -1,0 +1,21 @@
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" fx:id = "bPane1" fx:controller = "FXController">
+	<top>
+		<Label text = "Categories"/>
+	</top>
+	<center>
+		<HBox>
+			<Button/>
+			<Button/>
+			<Button/>
+		</HBox>
+	</center>
+	
+</BorderPane>

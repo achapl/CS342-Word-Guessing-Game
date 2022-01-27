@@ -1,0 +1,18 @@
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+
+
+<VBox xmlns:fx="http://javafx.com/fxml/1" fx:controller = "FXController">
+
+	<Label text = "Enter IP (127.0.0.1)"/>
+	<Label text = "and Port (5555)"/>
+	
+	<TextField/>
+	<TextField/>
+	
+	<Button text = "Enter" />
+	
+</VBox>

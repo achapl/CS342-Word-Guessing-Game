@@ -1,0 +1,7 @@
+WordGame.class
+Server$ClientThread.class
+Server$ServerThread.class
+Passable.class
+Server.class
+ServerGUI.class
+FileHandler.class
